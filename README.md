@@ -2,7 +2,8 @@
 
 ## Became a QA Engineer to provide the best quality for all
 
-[![My CV](https://img.shields.io/badge/-My CV-007BB6)](https://drive.google.com/file/d/1pRdgD4Av7oeQJH5w5WyigUXPISUuLl6I/view?usp=sharing)
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1pRdgD4Av7oeQJH5w5WyigUXPISUuLl6I/view?usp=sharing)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=E67E22)
@@ -13,5 +14,12 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-FFFFFF)
 ![VMWare](https://img.shields.io/badge/-VMWare-3498DB?style=for-the-badge&logo=VMWare&logoColor=E67E22)
 
+## Testing Documentation
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [Postman Collections]()
+
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/kseniyapavlovaengineerqa)
+
