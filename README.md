@@ -14,5 +14,5 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-FFFFFF)
 ![VMWare](https://img.shields.io/badge/-VMWare-3498DB?style=for-the-badge&logo=VMWare&logoColor=E67E22)
 
-
-Follow me
+## Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/kseniyapavlovaengineerqa)
