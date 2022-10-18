@@ -2,8 +2,7 @@
 
 ## Became a QA Engineer to provide the best quality for all
 
-## My CV
-
+[![My CV](https://img.shields.io/badge/-My CV-000000?style=for-the-badge&logo=Postman&logoColor=007BB6)](https://drive.google.com/file/d/1pRdgD4Av7oeQJH5w5WyigUXPISUuLl6I/view?usp=sharing)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=E67E22)
