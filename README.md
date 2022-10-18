@@ -7,11 +7,11 @@
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=E67E22)
-![SQL](https://img.shields.io/badge/-SQL-E67E22?style=for-the-badge&logo=SQL&logoColor=3498DB)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-ECF0F1?style=for-the-badge&logo=Jira&logoColor=3498DB)
-![DevTools](https://img.shields.io/badge/-DevTools-3498DB?style=for-the-badge&logo=DevTools&logoColor=ECF0F1)
-![C/C++](https://img.shields.io/badge/-C/C++-FFFFFF)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![VMWare](https://img.shields.io/badge/-VMWare-3498DB?style=for-the-badge&logo=VMWare&logoColor=E67E22)
 
 ## Testing Documentation
